@@ -1,3 +1,5 @@
+# LINK TO MY PROJECT
+https://github.com/katherinevfry/personal-bio-project
 # Personal Bio Site
 > Your portfolio site (aka personal site) will be a touchpoint for potential employers. When a potential employer looks at your personal site, it will often be their first interaction with you and something that you've made. Needless to say, you will want it to look good!
 
